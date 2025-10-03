@@ -12,3 +12,5 @@ This is a demo implementation of the CrowdGuard AI system described in the resea
 2. Replace YOUR_TELEGRAM_BOT_TOKEN and YOUR_CHAT_ID in `app.py`
 3. Run: `python app.py`
 4. Open `http://localhost:5000/video_feed` in browser.
+
+
